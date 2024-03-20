@@ -16,7 +16,7 @@ Before running the project, make sure you have the following:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/k1fl1k/DatabasePractise1.git
+    git clone https://github.com/k1fl1k/DatabasePractise-part2.git
     ```
 
 2. Open the project in your chosen IDE (e.g., IntelliJ IDEA).
